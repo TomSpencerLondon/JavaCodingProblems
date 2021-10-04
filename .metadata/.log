@@ -1,0 +1,441 @@
+!SESSION 2021-10-04 09:59:59.602 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Command-line arguments:  -data /Users/tomspencer/Desktop/JavaCodingProblems
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:00.859
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.038
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.064
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.072
+!MESSAGE Initializing Java Language Server 0.71.0.202104071307
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.080
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.080
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.094
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.120
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.190
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.211
+!MESSAGE Workspace initialized in 128ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.302
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.306
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.338
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.340
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.342
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.343
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:01.886
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:02.351
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:02.352
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:02.353
+!MESSAGE 4 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:02.355
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:03.510
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:03.547
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:03.582
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:03.929
+!MESSAGE Reconciled 0. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:04.367
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:04.367
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:04.368
+!MESSAGE 8 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:04.368
+!MESSAGE Validated 1. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:08.214
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:08.621
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:09.036
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:09.037
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:09.037
+!MESSAGE 4 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:09.038
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:10.195
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:10.603
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:10.915
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:11.108
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:11.517
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:11.928
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:11.929
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:11.929
+!MESSAGE 4 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:11.930
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:16.065
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:16.471
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:16.886
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:16.887
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:16.887
+!MESSAGE 4 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:00:16.887
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:03.252
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:03.412
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:03.818
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:04.147
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:04.339
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:04.514
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:04.923
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:05.336
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:05.336
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:05.336
+!MESSAGE 3 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:05.337
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:01:44.020
+!MESSAGE >> document/didSave
+!SESSION 2021-10-04 10:07:36.849 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Command-line arguments:  -data /Users/tomspencer/Desktop/JavaCodingProblems
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-10-04 10:07:37.550
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:37.917
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.048
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.073
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.082
+!MESSAGE Initializing Java Language Server 0.71.0.202104071307
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.089
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.090
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.106
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.150
+!MESSAGE Workspace initialized in 57ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.212
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.216
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.312
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.314
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.316
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.317
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:38.732
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:39.156
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:39.157
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:39.158
+!MESSAGE 6 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:39.161
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:43.160
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:43.572
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:43.771
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:43.799
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:43.996
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:43.997
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:43.997
+!MESSAGE 6 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:43.998
+!MESSAGE Validated 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:45.029
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:45.078
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:45.083
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:45.435
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:45.853
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:45.854
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:45.854
+!MESSAGE 6 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:45.855
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:46.737
+!MESSAGE >> document/didSave
+!SESSION 2021-10-04 10:07:50.247 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Command-line arguments:  -data /Users/tomspencer/Desktop/JavaCodingProblems
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-10-04 10:07:50.836
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.108
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.221
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.242
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.249
+!MESSAGE Initializing Java Language Server 0.71.0.202104071307
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.254
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.255
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.270
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.303
+!MESSAGE Workspace initialized in 45ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.375
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.378
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.552
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.575
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.576
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.577
+!MESSAGE 6 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.580
+!MESSAGE Validated 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.601
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.604
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.605
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:07:51.606
+!MESSAGE >> watchers registered
+!SESSION 2021-10-04 10:15:32.541 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_GB
+Command-line arguments:  -data /Users/tomspencer/Desktop/JavaCodingProblems
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-10-04 10:15:33.265
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.666
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.806
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.829
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.838
+!MESSAGE Initializing Java Language Server 0.71.0.202104071307
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.845
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.846
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.863
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.915
+!MESSAGE Workspace initialized in 66ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.970
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:33.974
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.212
+!MESSAGE Reconciled 0. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.238
+!MESSAGE begin problem for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.240
+!MESSAGE Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor is of type UndefinedConstructorInDefaultConstructor
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.240
+!MESSAGE 7 problems reported for /CountDuplicates.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.244
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.263
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.266
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.267
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-10-04 10:15:34.269
+!MESSAGE >> watchers registered
